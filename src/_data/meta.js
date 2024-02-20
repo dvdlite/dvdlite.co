@@ -2,7 +2,7 @@ module.exports = {
   url: process.env.URL || 'http://localhost:8080',
   siteName: 'dvdlite.co',
   siteDescription:
-    'Technology and MakerSpace',
+    'Technology & MakerSpace',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -23,12 +23,12 @@ module.exports = {
   themeBgColor: '#FBFBFB', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   opengraph_default: '/assets/images/template/opengraph-default.jpg', // fallback/default meta image
   opengraph_default_alt:
-    'Visible content: Technology and MakerSpace', // alt text for default meta image
+    'Visible content: Technology & MakerSpace', // alt text for default meta image
   blog: {
     // RSS feed
     name: 'dvdlite.co blog',
     description:
-      'Technology and MakerSpace',
+      'Technology & MakerSpace',
     // feed links are looped over in the head. You may add more to the array.
     feedLinks: [
       {
