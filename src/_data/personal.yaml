@@ -1,9 +1,7 @@
 email: dvdlite@dvdlite.co
 address: |-
   Suboptimal Industries
-  15 Dickinson St
-  Greenfield, Massachusetts 01301
-  Tel: +1 774-275-3675
+  Greenfield, Massachusetts
 platforms:
   mastodon: 'https://hachyderm.io/@dvdlite'
   github: 'https://github.com/dvdlite'
