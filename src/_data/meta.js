@@ -14,10 +14,10 @@ module.exports = {
     website: 'https://dvdlite.co' // i.e. https.://www.lenesaile.com - the personal site of the author
   },
   creator: {
-    name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
-    email: 'hola@lenesaile.com',
-    website: 'https://www.lenesaile.com',
-    social: 'https://front-end.social/@lene'
+    name: 'David Leitko', // i.e. Lene Saile - creator's (developer) name.
+    email: 'dvdlite@dvdlite.co',
+    website: 'https://dvdlite.co',
+    social: 'https://hachyderm.io/@dvdlite'
   },
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
   themeBgColor: '#FBFBFB', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
