@@ -1,3 +1,16 @@
+---
+title: License
+seo:
+  title: License
+  description: Unless otherwise noted, all software on this site is free and open-source software (FOSS) licensed under the MIT License. The remaining (non-software) content on this website, authored by David Leitko, is licensed under a Creative Commons Attribution 4.0 International license (CC-BY 4.0) License. 
+permalink: /license/index.html
+layout: page
+---
+
+Unless otherwise noted, all software on this site is [free and open-source software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software) licensed under the MIT License.
+
+The remaining (non-software) content on this website, authored by David Leitko, is licensed under a [Creative Commons Attribution 4.0 International license (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) unless otherwise indicated.
+
 ### MIT License
 
 © Copyright 2024 David Leitko
@@ -8,12 +21,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
----
-
-### Creative Commons Attribution 4.0 International (CC-BY 4.0) License
-
-The remaining (non-software) content on this website, authored by David Leitko, is licensed under a [Creative Commons Attribution 4.0 International license (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) unless otherwise indicated.
----
+### License for the [eleventy-excellent](https://github.com/madrilene/eleventy-excellent) starter:
 
 ### ISC License
 

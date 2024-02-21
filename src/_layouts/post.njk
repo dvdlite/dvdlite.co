@@ -2,10 +2,13 @@
 layout: base
 schema: blog
 ---
-
-<article class="region blog" style="--region-space-top: var(--space-xl-2xl)">
+  <header class="full | section" style="--spot-color: var(--color-primary)">
+    <div class="section__inner flow region">
+      <h2 class="text-center text-base-light">{{ title }}</h2>
+    </div>
+  </header>
+  <article class="region blog" style="--spot-color: var(--color-primary)">
   <div class="wrapper flow prose">
-    <h1 class="gradient-text">{{ title }}</h1>
 
     {% if image %}
       <!-- image -->

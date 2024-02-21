@@ -3,9 +3,12 @@ layout: base
 masonry: true
 ---
 
-<article class="region">
+<article class="region" class="full | section" style="--spot-color: var(--color-primary)">
+    <div class="section__inner flow region">
+      <h2 class="text-center text-base-light">{{ title }}</h2>
+    </div>
+  </header>
   <div class="wrapper flow">
-    <h1 class="gradient-text-linear">{{ title }}</h1>
     {{ content | safe }}
   </div>
 </article>

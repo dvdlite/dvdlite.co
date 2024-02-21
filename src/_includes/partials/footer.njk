@@ -7,7 +7,10 @@
       >
         &copy; {% year %}
         <a href="/" {% if page.url == "/" %}aria-current="page"{% endif %}
-          >{{ meta.siteName }} <small>{{ pkg.version }}</small>
+          >David Leitko<!--{{ meta.siteName }} {{ pkg.version }} -->
+        </a> 
+        <a href="https://creativecommons.org/licenses/by/4.0/">
+          {% include 'svg/ccheart_red.svg' %}
         </a>
 
         {% for item in navigation.bottom %}
@@ -26,15 +29,7 @@
 
       <nav class="site-foot__inner" aria-label="{{ meta.navigation.ariaPlatforms }}">
         <!-- gets the first item from the feed loop set in meta -->
-        <a
-          href="{{ meta.blog.feedLinks[0].url }}"
-          rel="alternate"
-          type="{{ meta.blog.feedLinks[0].type }}"
-        >
-          <span class="visually-hidden">{{ meta.blog.feedLinks[0].title }}</span>
-          <div aria-hidden="true">{% include 'svg/rss.svg' %}</div>
-        </a>
-
+        
         {% for key, value in personal.platforms %}
           {% if value != "" %}
             <!-- regular platforms -->
@@ -45,6 +40,15 @@
           {% endif %}
         {% endfor %}
       </nav>
+      <a
+          href="{{ meta.blog.feedLinks[0].url }}"
+          rel="alternate"
+          type="{{ meta.blog.feedLinks[0].type }}"
+        >
+          <span class="visually-hidden">{{ meta.blog.feedLinks[0].title }}</span>
+          <div aria-hidden="true">{% include 'svg/rss.svg' %}</div>
+        </a>
+
     </div>
 
     <!-- theme switch -->

@@ -26,7 +26,7 @@ module.exports = {
     'Visible content: Technology & MakerSpace', // alt text for default meta image
   blog: {
     // RSS feed
-    name: 'dvdlite.co blog',
+    name: 'Dispatches from David Leitko',
     description:
       'Technology & MakerSpace',
     // feed links are looped over in the head. You may add more to the array.

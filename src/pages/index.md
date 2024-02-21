@@ -1,13 +1,13 @@
 ---
 permalink: /index.html
-title: ' dvdlite.co'
+title: 'David Leitko'
 description: 'Technology & MakerSpace'
 layout: 'home'
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: 'Latest dispatches'
+  // intro: "I'm showing the last 4 blog posts, but there might be more!"
 ---
 
-## Welcome to dvdlite.co
+### Welcome!
 
-More to come...
+Watch this space...

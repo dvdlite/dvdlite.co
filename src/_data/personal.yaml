@@ -5,5 +5,6 @@ address: |-
 platforms:
   mastodon: 'https://hachyderm.io/@dvdlite'
   github: 'https://github.com/dvdlite'
+  email: 'mailto:dvdlite@dvdlite.co'
 //  bluesky: 'https://bsky.app/profile/lenesaile.com'
 //  kofi: 'https://ko-fi.com/lenesaile'

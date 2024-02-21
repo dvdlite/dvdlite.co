@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Dispatches
 description: 'All blog posts can be found here'
 layout: blog
 pagination:
