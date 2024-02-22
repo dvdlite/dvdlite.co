@@ -19,7 +19,7 @@ module.exports = {
     website: 'https://dvdlite.co',
     social: 'https://hachyderm.io/@dvdlite'
   },
-  themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
+  themeColor: '#7400cc', //  Manifest: defines the default theme color for the application
   themeBgColor: '#FBFBFB', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   opengraph_default: '/assets/images/template/opengraph-default.jpg', // fallback/default meta image
   opengraph_default_alt:
@@ -86,5 +86,5 @@ module.exports = {
     allow: true,
     infoText: 'View this page on GitHub'
   },
-  easteregg: true
+  easteregg: false
 };

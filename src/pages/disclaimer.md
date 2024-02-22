@@ -2,17 +2,19 @@
 title: Disclaimer
 seo:
   title: Disclaimer
-  description: I respect your privacy. This website does not and will not collect any data or use any third party tracking functionality.
+  description: Content and techniques presented on this website are for educational and informational purposes only.
 permalink: /disclaimer/index.html
 layout: page
 ---
 
-Content, techniques, code, and linked websites mentioned on this website are for educational and informational purposes only.
+Content and techniques presented on this website are for educational and informational purposes only.
 
-As I am learning in public on this site, concepts, commands or code you find here may contain errors, omissions, or be incomplete.
+I consider this a platform for learning in public. Posts may contain errors, omissions, or be incomplete.
 
-I am not responsible for how you use this information, so please use it at your own risk. I am not liable for any damages, losses, or expenses that may arise from use of this website.
+My equipment, systems, and configurations may be different from what you have. There are often many ways to solve a challenge, and what I share here are things that have worked for me.
 
-The content on this site should not be considered a substitute for professional advice, so please consult with a qualified expert before making any decisions based on what you read here.
+Please apply your own judgement, common sense, and analytical skills and proceed at your own risk. I am not liable for any damages, losses, or expenses that may arise from content posted to this website.
+
+Nothing posted here should be considered a substitute for professional advice, so please consult with a qualified expert before making any decisions based on what you read here.
 
 Thanks!
