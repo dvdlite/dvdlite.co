@@ -10,7 +10,6 @@
   padding: 0.1rem 0.625rem;
   font-weight: 700;
   min-block-size: 1.5em;
-  text-transform: uppercase;
 }
 
 .theme-switch .button[aria-pressed='true'] {

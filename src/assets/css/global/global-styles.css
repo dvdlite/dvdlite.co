@@ -11,10 +11,10 @@ body {
   font-size: var(--size-step-0);
   font-family: var(--font-base);
   line-height: 1.4;
-  letter-spacing: var(--tracking);
+  letter-spacing: var(--tracking-m);
   display: flex;
   flex-direction: column;
-  font-weight: 500;
+  font-weight: 400;
   accent-color: var(--color-primary);
 }
 
@@ -27,21 +27,21 @@ h1,
 h2,
 h3 {
   line-height: 1.2;
-  letter-spacing: var(--tracking-s);
-  font-weight: 700;
+  letter-spacing: var(--tracking-m);
+  font-weight: 500;
   font-family: var(--font-display);
 }
 
 h1 {
-  font-size: var(--size-step-6);
-}
-
-h2 {
   font-size: var(--size-step-4);
 }
 
-h3 {
+h2 {
   font-size: var(--size-step-2);
+}
+
+h3 {
+  font-size: var(--size-step-1);
 }
 
 /* Set line lengths */
@@ -54,7 +54,7 @@ blockquote:not([class]) {
 blockquote {
   border-inline-start: 0.5rem solid var(--color-primary);
   padding: var(--space-m-l);
-  font-size: var(--size-step-2);
+  font-size: var(--size-step-1);
 }
 
 blockquote > * + * {
@@ -64,7 +64,7 @@ blockquote > * + * {
 blockquote :last-child {
   font-family: var(--font-base);
   font-style: normal;
-  font-size: var(--size-step-1);
+  font-size: var(--size-step-0);
 }
 
 svg {
@@ -74,13 +74,13 @@ svg {
 }
 
 strong {
-  font-weight: 800;
+  font-weight: 700;
 }
 
 hr {
   border: 0;
   height: 1px;
-  width: 10%;
+  width: 50%;
   margin-block: var(--space-m-l);
   margin-inline-start: 0;
   background-color: var(--color-bg-accent-2);

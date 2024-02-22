@@ -8,6 +8,6 @@ blog:
   // intro: " "
 ---
 
-### Welcome!
+## Welcome!
 
 Watch this space...

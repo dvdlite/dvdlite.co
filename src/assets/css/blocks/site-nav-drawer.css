@@ -87,7 +87,6 @@
 .site-nav-drawer span {
   font-size: var(--size-step-min-1);
   font-weight: bold;
-  text-transform: uppercase;
   padding-inline-end: var(--space-2xs);
 }
 

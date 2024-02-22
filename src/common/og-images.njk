@@ -2,8 +2,8 @@
 font: "'Red Hat Display', Ubuntu" # These get created in development, you must have the font installed on your system.
 background: '#343434'
 text: '#FBFBFB'
-colors: ['#dd4462', '#c73d58', '#b1364e', '#9a3044']
-siteUrl: 'eleventy-excellent.netlify.app'
+colors: ['#bd66ff', '#9c1aff', '#7400cc', '#480080']
+siteUrl: 'dvdlite.co'
 pagination:
   data: collections.posts
   size: 1
@@ -54,7 +54,7 @@ eleventyExcludeFromCollections: true
 			letter-spacing="-1"
 		>
 			<tspan x="160" y="{{ verticalStartingPoint - 120 }}">
-				{{ post.date | formatDate('DD / MM / YYYY') }}
+				{{ post.date | formatDate('YYYY-MM-DD') }}
 			</tspan>
 		</text>
 
@@ -83,6 +83,6 @@ eleventyExcludeFromCollections: true
 			letter-spacing="-0.5"
 		>
 			<!-- <tspan x="160" y="580">{{ meta.siteName }} · {{ meta.url | replace("https://", "") | replace("http://", "") }}</tspan> -->
-			<tspan x="160" y="580">{{ meta.siteName }} — {{ siteUrl }}</tspan>
+			<tspan x="160" y="580">David Leitko · {{ siteUrl }}</tspan>
 		</text>
 </svg>

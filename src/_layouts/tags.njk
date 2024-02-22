@@ -2,12 +2,13 @@
 layout: base
 masonry: false
 ---
-
-<article class="region" class="full | section" style="--spot-color: var(--color-primary)">
+<article class="wrapper">
+  <header class="full | section" style="--spot-color: var(--color-primary)">
     <div class="section__inner flow region">
       <h2 class="text-center text-base-light">{{ title }}</h2>
     </div>
   </header>
+
   <div class="wrapper flow">
     {{ content | safe }}
   </div>
