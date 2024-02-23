@@ -17,26 +17,26 @@ Below are the applications, tools, and services I am currently using on a regula
 - Mastodon client: Mona
 - Calendaring client: Apple Calendar (iCloud)
 - Contacts client: Apple Contacts (iCloud)
-- Habit tracking: Chronicling app by Rebecca Owen
+- Habit tracking: Chronicling, by Rebecca Owen
 - Task management: Apple Reminders (iCloud)
-- Quick capture: Drafts - Capture thoughts first, decide where they go later!
-- Shared notes: Apple Notes - For shared notes with family members (iCloud)
+- Quick capture: Drafts, capture thoughts first decide where they go later!
+- Shared notes: Apple Notes, only for shared notes with family members (iCloud)
 - Personal knowledge management: Obsidian
 - Photo management: Apple Photos (iCloud)
 - Music: Apple Music
 - Music discovery: MusicHarbor
-- Postcast client: Overcast
+- Podcast client: Overcast
 - YouTube client: Play
 - Spreadsheets: Microsoft Excel
-- Text editing: Vi. Or Visual Studio Code when editing lots of related files
-- Password/secrets management: Apple Keychain with one foot still in 1Password
-- Ad blocking: 1Blocker
+- Text editing: Vi, or Visual Studio Code when editing lots of related files
+- Password & secrets management: Apple Keychain, with one foot still in 1Password
+- Ad & tracker blocking: 1Blocker
 - Backup client: Carbon Copy Cloner, Synology Active Backup for Business
 - Email backup: Email Archiver Pro
 - Automation: Apple Shortcuts, Hazel, Keyboard Maestro
 - Maps: Apple Maps
 - Word processing: Microsoft Word
-- Newsletter / Read later: Omnivore
+- Newsletter & read later: Omnivore
 - Package tracking: Parcel
 - Calculator: PCalc
 - Budgeting: YNAB, looking to make a change here

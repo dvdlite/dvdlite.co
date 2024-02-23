@@ -15,6 +15,7 @@ layout: page
 :seedling: Paint my home office
 
 :books: [A Confederacy of Dunces, by John Kennedy Toole](https://openlibrary.org/works/OL3501723W/A_Confederacy_of_Dunces?edition=key%3A/books/OL14946299M)
+
 :tv: Homestead Rescue, Season 4
 :tv: Rico to the Rescue, Season 2
 :tv: Formula 1: Drive to Survive, Season 6
