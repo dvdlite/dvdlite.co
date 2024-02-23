@@ -3,7 +3,7 @@
   "version": "2.1.4",
   "description": "Technology & MakerSpace",
   "author": "David Leitko",
-  "license": "ISC",
+  "license": "MIT",
   "engines": {
     "node": ">=18.x.x"
   },
@@ -28,6 +28,7 @@
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "eleventy": "^1.0.6",
+    "markdown-it-task-checkbox": "^1.0.6",
     "tailwindcss": "^3.0.23"
   },
   "devDependencies": {

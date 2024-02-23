@@ -1,6 +1,10 @@
 module.exports = {
   top: [
     {
+      text: 'About',
+      url: '/about/'
+    },
+    {
       text: 'Dispatches',
       url: '/blog/'
     },
@@ -9,8 +13,12 @@ module.exports = {
       url: '/Tags/'
     },
     {
-      text: 'About',
-      url: '/about/'
+      text: 'Now',
+      url: '/now/'
+    },
+    {
+      text: 'Uses',
+      url: '/uses/'
     },
     {
       text: 'RSS',

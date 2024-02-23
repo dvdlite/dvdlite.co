@@ -46,6 +46,7 @@ const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const markdownLib = require('./config/plugins/markdown.js');
 const {slugifyString} = require('./config/utils/index.js');
 const yaml = require('js-yaml');
+const markdownItTaskCheckbox = require('markdown-it-task-checkbox');
 
 module.exports = eleventyConfig => {
   // 	--------------------- Custom Watch Targets -----------------------
@@ -109,7 +110,8 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(inclusiveLangPlugin);
   eleventyConfig.addPlugin(bundlerPlugin);
   eleventyConfig.setLibrary('md', markdownLib);
-
+  eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItTaskCheckbox));
+  
   // Add support for YAML data files with .yaml extension
   eleventyConfig.addDataExtension('yaml', contents => yaml.load(contents));
 
