@@ -3,7 +3,7 @@ title: Infrastructure / Services
 ---
 - **Local storage:** Synology NAS
 - **Cloud storage:** Primarily iCloud, some OneDrive
-- **Mail hosting:** Amazon WorkMail & iCloud
+- **Mail hosting:** Amazon WorkMail, iCloud
 - **Spam filtering:** Mailroute
 - **Search engine:** SearXNG (self-hosted)
 - **Multi-WAN:** local ISP, 5G T-Mobile Home Internet
