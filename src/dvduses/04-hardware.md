@@ -4,7 +4,7 @@ title: Hardware & Office
 - Apple Macbook Pro (M1 Pro)
 - Apple iPhone 15 Pro Max
 - Apple Watch 6
-- LG 27" 27UD58 monitor
+- LG 27" 27UD58 LED display
 - Samsung BN68 LED TV (dashboard monitor)
 - Amazon Echo Show 5
 - Kindle Paperwhite Signature Edition
