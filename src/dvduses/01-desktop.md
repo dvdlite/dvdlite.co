@@ -1,5 +1,5 @@
 ---
-title: Desktop Apps - MacBook Pro
+title: Desktop Apps (MacBook Pro, Apple Silicon)
 ---
 - **Operating System:** MacOS Sonoma 14.4, always the latest developer beta
 - **Browser:** Safari, rarely Google Chrome

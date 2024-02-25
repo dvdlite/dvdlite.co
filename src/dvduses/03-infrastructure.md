@@ -2,7 +2,7 @@
 title: Infrastructure / Services
 ---
 - **Local storage:** Synology NAS
-- **Cloud storage:** Primarily iCloud, some OneDrive,
+- **Cloud storage:** Primarily iCloud, some OneDrive
 - **Mail hosting:** Amazon WorkMail & iCloud
 - **Spam filtering:** Mailroute
 - **Search engine:** SearXNG (self-hosted)

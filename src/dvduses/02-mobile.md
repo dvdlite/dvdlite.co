@@ -1,5 +1,5 @@
 ---
-title: Mobile Apps - iPhone
+title: Mobile Apps (iPhone 15 Pro Max)
 ---
 - **Operating System:** iOS 17.4, always the latest developer beta
 - **Browser:** Safari, rarely Google Chrome

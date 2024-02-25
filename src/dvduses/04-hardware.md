@@ -1,14 +1,14 @@
 ---
 title: Hardware & Office
 ---
-- Apple Macbook Pro (M1 Pro)
+- Apple Macbook Pro (M1 Pro, 16GB RAM)
 - Apple iPhone 15 Pro Max
 - Apple Watch 6
-- LG 27" 27UD58 LED display
-- Samsung BN68 LED TV (dashboard monitor)
+- LG 27" 27UD58 LED (primary display)
+- Samsung BN68 LED TV (dashboard display)
 - Amazon Echo Show 5
 - Kindle Paperwhite Signature Edition
-- ScanSnap iX1600 scanner
+- Ricoh ScanSnap iX1600 scanner
 - Beats Fit Pro earbuds (for home/travel)
 - Apple AirPods (2nd Gen) earbuds (for work)
 - Amazon Fire TV Stick 4K Max

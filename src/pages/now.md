@@ -6,7 +6,7 @@ seo:
 permalink: /now/index.html
 layout: page
 ---
-### Where I'm focusing my time & energy
+### Where I'm focusing my energy
 #### February 2024
 :herb: Re-establish an IndieWeb foothold with a minimum viable blog using 11ty, decide what to pull in from previous public sites
 
