@@ -1,5 +1,5 @@
 ---
-title: &#63743; Mobile Apps
+title: Mobile Apps
 ---
 - **Operating System:** iOS 17.4, always the latest developer beta
 - **Browser:** Safari, rarely Google Chrome
