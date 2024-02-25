@@ -1,7 +1,7 @@
 ---
 title: HomeLab
 ---
-- **Rack:** Sanus 27U 19" audio component rack
+- **Rack:** Sanus CFR2127 27U 19" audio component rack
 - **Cooling controller:** 1U AC Infinity Controller 12
 - **Cooling:** AC Infinity roof fan kit
 - **UPS:** CyberPower BL1450U 1450VA with AVR
