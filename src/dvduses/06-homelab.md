@@ -1,0 +1,18 @@
+---
+title: HomeLab
+---
+- Rack: Sanus 27U 19" audio component rack
+- Cooling controller: 1U AC Infinity Controller 12
+- Cooling: AC Infinity roof fan kit
+- UPS: CyberPower BL1450U 1450VA with AVR
+- NAS: Synology 5-bay DiskStation DS1019+ with Seagate Ironwolf NAS HDDs
+- Network switches: TP-Link TL-SG108E, Netgear GS308T
+- Cable management: 1U Cable Matters rackmount 24-port keystone patch panel, VCE CAT6 keystones
+- Power distribution: 1U ADJ PC-100A power strip (2)
+- Monitors: Dell E2216H 22" monitor (2)
+- Compute nodes
+  - Dell Optiplex 5060 SFF (2) - one running pfSense, the other Proxmox
+  - Dell Optiplex 7060 Micro - worker node, Ubuntu 22.04
+  - Dell Optiplex 5060 Micro (5) - worker nodes, Ubuntu 22.04
+  - Raspberry Pi 5 8GB (2) - worker nodes, Raspberry Pi OS / Debian Bookworm
+- Wireless keyboard: Logitech K400+ keyboard/mouse

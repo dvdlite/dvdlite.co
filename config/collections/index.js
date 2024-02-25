@@ -16,6 +16,7 @@ const tagList = collection => {
     if (!item.data.tags) return;
     item.data.tags
       .filter(tag => !['posts', 'all'].includes(tag))
+      .filter(tag => !['dvduses', 'all'].includes(tag))
       .forEach(tag => tagsSet.add(tag));
   });
   return Array.from(tagsSet).sort();

@@ -1,0 +1,20 @@
+---
+title: Hardware & Office
+---
+- Apple Macbook Pro (M1 Pro)
+- Apple iPhone 15 Pro Max
+- Apple Watch 6
+- LG 27" 27UD58 monitor
+- Samsung BN68 LED TV (dashboard monitor)
+- Amazon Echo Show 5
+- Kindle Paperwhite Signature Edition
+- ScanSnap iX1600 scanner
+- Beats Fit Pro earbuds (for home/travel)
+- Apple AirPods (2nd Gen) earbuds (for work)
+- Amazon Fire TV Stick 4K Max
+- LG BP60NB10 UHD Blu-Ray drive
+- Yamaha CR-640 stereo receiver (restored, circa 1979)
+- Polk Audio PSW10 powered subwoofer
+- Dayton Audio B652-AIR 6-1/2" 2-way bookshelf speaker
+- IKEA IDÅSEN Sit/stand desk frame with 48"x30" solid maple butcher block top
+- Branch Ergonomic chair

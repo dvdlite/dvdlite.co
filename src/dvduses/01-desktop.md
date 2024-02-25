@@ -1,0 +1,39 @@
+---
+title: Desktop Apps - MacBook Pro
+---
+- Browser: Safari, rarely Google Chrome
+- Bookmark management: AnyBox
+- Mail client: Apple Mail
+- Instant messaging: Apple Messages, Unite GroupMe client for a small band of friends
+- RSS client: Reeder (using Reeder's built-in feed management/sync service)
+- Mastodon client: Mona
+- Calendaring client: Apple Calendar (iCloud)
+- Contacts client: Apple Contacts (iCloud)
+- Habit tracking: Chronicling, by Rebecca Owen
+- Task management: Apple Reminders (iCloud)
+- Quick capture: Drafts, capture thoughts first decide where they go later!
+- Shared notes: Apple Notes, only for shared notes with family members (iCloud)
+- Personal knowledge management: Obsidian
+- Photo management: Apple Photos (iCloud)
+- Music: Apple Music
+- Music discovery: MusicHarbor
+- Podcast client: Overcast
+- YouTube client: Play
+- News: Apple News
+- Spreadsheets: Microsoft Excel
+- Text editing: Vi, or Visual Studio Code when editing lots of related files
+- Password & secrets management: Apple Keychain, with one foot still in 1Password
+- Ad & tracker blocking: 1Blocker
+- Backup client: Carbon Copy Cloner, Synology Active Backup for Business
+- Email backup: Email Archiver Pro
+- Automation: Apple Shortcuts, Keyboard Maestro, Hazel
+- Maps: Apple Maps
+- Word processing: Microsoft Word
+- Newsletter & read later: Omnivore
+- Package tracking: Parcel
+- Calculator: PCalc
+- Budgeting: YNAB, looking to make a change here
+- Menu bar management: Dozer
+- Audio control: SoundSource
+- Command line: Apple Terminal
+- Command line tools: Homebrew, born and raised on Unix/Linux so gotta fill out the toolbox!

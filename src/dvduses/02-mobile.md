@@ -1,0 +1,42 @@
+---
+title: Mobile Apps - iPhone
+---
+- Browser: Safari, rarely Google Chrome
+- Bookmark management: AnyBox
+- Mail client: Apple Mail
+- Instant messaging: Apple Messages, GroupMe for a small band of friends
+- RSS client: Reeder (using Reeder's built-in feed management/sync service)
+- Mastodon client: Mona
+- Calendaring client: Apple Calendar (iCloud)
+- Contacts client: Apple Contacts (iCloud)
+- Habit tracking: Chronicling, by Rebecca Owen
+- Task management: Apple Reminders (iCloud)
+- Quick capture: Drafts, capture thoughts first decide where they go later!
+- Shared notes: Apple Notes, only for shared notes with family members (iCloud)
+- Personal knowledge management: Obsidian
+- Camera: Apple Camera
+- Photo management: Apple Photos (iCloud)
+- Music: Apple Music, Marvis Pro, Mixtape, Longplay
+- Music discovery: MusicHarbor
+- Podcast client: Overcast
+- Radio streaming: Broadcast
+- YouTube client: Play
+- News: Apple News
+- Password & secrets management: Apple Keychain, with one foot still in 1Password
+- Ad & tracker blocking: 1Blocker
+- Backup client: Apple iCloud Backup
+- Automation: Apple Shortcuts, Toolbox Pro, Pushcut, Scriptable
+- Navigation / maps: Apple Maps
+- Newsletter & read later: Omnivore
+- Package tracking: Parcel
+- Calculator: PCalc
+- Budgeting: YNAB, looking to make a change here
+- Credit monitoring: Credit Karma, looking to make a change here
+- Meditation: Zenitizer, Dark Noise
+- Media tracking: Sequel, Letterboxd, Callsheet
+- Reading: Kindle
+- Weather: Apple Weather, Looks Like Rain
+- Flight tracking: Flighty
+- Calorie tracking: Lose It!
+- Zero-trust networking: Tailscale
+- Remote shell: Prompt
