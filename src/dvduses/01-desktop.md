@@ -31,6 +31,7 @@ title: Desktop Apps
 - **Maps:** Apple Maps
 - **Word processing:** Microsoft Word
 - **Newsletter & read later:** Omnivore
+- **Git client:** Command line, GitHub Desktop, Visual Studio Code
 - **Package tracking:** Parcel
 - **Calculator:** PCalc
 - **Budgeting:** YNAB, looking to make a change here

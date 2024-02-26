@@ -1,16 +1,16 @@
 ---
 title: MakerSpace
 ---
-- Miter saw
-- Table saw
-- **Thickness planer:** DeWalt DW735X
-- Jointer
-- Lathe
-- Drill press
-- Scroll saw
-- Band saw
-- Sander
-- Router
-- Air compressor
-- Work bench
-- Assembly table
+- **Miter saw:** DeWalt compound miter saw (DWS779)
+- **Table saw:** Bosch 10" portable jobsite table saw (GTS1031)
+- **Thickness planer:** DeWalt 13" thickness planer (DW735X)
+- **Jointer:** Ridgid 6-1/8" jointer/planer (JP0610)
+- **Lathe:** Central Machinery 12"x36" wood Lathe (134706)
+- **Drill press:** Central Machinery 10", 12-speed bench drill press (63471)
+- **Scroll saw:** Wen 16" variable speed scroll saw (3921)
+- **Band saw:** Wen 10" band saw (3962)
+- **Sander:** Bauer 4"x36" belt and 6" disc sander (58339)
+- **Router:** Bosch 2.25 HP plunge & fixed-based router kit (1617EVSPK)
+- **Dust collector:** Central Machinery 2 HP dust collector (59726)
+- **Air filtration:** Rikon 1/4 HP Air Filtration 450 (62-450)
+- **Air compressor:** Husky 27-gallon 200psi portable air compressor (C271H)
