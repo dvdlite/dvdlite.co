@@ -1,16 +1,16 @@
 ---
 title: Hardware & Office
 ---
-- Apple Macbook Pro (M1 Pro, 16GB RAM)
-- Apple iPhone 15 Pro Max
-- Apple Watch 6
+- &#63743; Macbook Pro (M1 Pro, 16GB RAM)
+- &#63743; iPhone 15 Pro Max
+- &#63743; Watch 6
 - LG 27" 27UD58 LED (primary display)
 - Samsung BN68 LED TV (dashboard display)
 - Amazon Echo Show 5
 - Kindle Paperwhite Signature Edition
 - Ricoh ScanSnap iX1600 scanner
 - Beats Fit Pro earbuds (for home/travel)
-- Apple AirPods (2nd Gen) earbuds (for work)
+- &#63743; AirPods (2nd Gen) earbuds (for work)
 - Amazon Fire TV Stick 4K Max
 - LG BP60NB10 UHD Blu-Ray drive
 - Yamaha CR-640 stereo receiver (restored, circa 1979)

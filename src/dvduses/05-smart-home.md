@@ -1,8 +1,8 @@
 ---
 title: Smart Home
 ---
-- **Management platform:** Apple HomeKit, Amazon Alexa
-- **Smart speakers:** HomePod, HomePod Mini, Echo Dot
+- **Management platform:** &#63743; HomeKit, Amazon Alexa
+- **Smart speakers:** &#63743; HomePod, &#63743; HomePod Mini, Echo Dot
 - **Hubs:** Aqara, IKEA
 - **Wifi lighting:** Meross, IKEA, Smart Life, LIFX
 - **Wifi controls / switches:** Aqara, Wemo, Meross
