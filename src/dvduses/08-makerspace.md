@@ -3,7 +3,7 @@ title: MakerSpace
 ---
 - Miter saw
 - Table saw
-- Planer
+- **Thickness planer:** DeWalt DW735X
 - Jointer
 - Lathe
 - Drill press

@@ -29,6 +29,7 @@ title: Mobile Apps
 - **Automation:** Apple Shortcuts, Toolbox Pro, Pushcut, Scriptable
 - **Navigation / maps:** Apple Maps
 - **Newsletter & read later:** Omnivore
+- **Git client:** Working Copy 
 - **Package tracking:** Parcel
 - **Calculator:** PCalc
 - **Budgeting:** YNAB, looking to make a change here
