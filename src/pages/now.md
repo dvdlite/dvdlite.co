@@ -15,8 +15,9 @@ layout: page
 :seedling: Paint my home office
 
 :books: [A Confederacy of Dunces, by John Kennedy Toole](https://openlibrary.org/works/OL3501723W/A_Confederacy_of_Dunces?edition=key%3A/books/OL14946299M)
+:books: [Wishful Drinking, by Carrie Fisher](https://openlibrary.org/works/OL16027530W/Wishful_drinking?edition=key%3A/books/OL24930605M)
 
-:tv: Homestead Rescue, Season 4
+:tv: Homestead Rescue, Season 4, Season 5
 :tv: Rico to the Rescue, Season 2
 :tv: Formula 1: Drive to Survive, Season 6
 
