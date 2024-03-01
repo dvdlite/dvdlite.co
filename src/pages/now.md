@@ -7,15 +7,15 @@ permalink: /now/index.html
 layout: page
 ---
 ### Where I'm focusing my energy
-#### February 2024
+#### March 2024
 :herb: Re-establish an IndieWeb foothold with a minimum viable blog using 11ty, decide what to pull in from previous public sites
 
 :herb: Use lessons learned from previous PKM iterations to reboot my Obsidian vault
 
 :seedling: Paint my home office
 
-:books: [A Confederacy of Dunces, by John Kennedy Toole](https://openlibrary.org/works/OL3501723W/A_Confederacy_of_Dunces?edition=key%3A/books/OL14946299M)
-:books: [Wishful Drinking, by Carrie Fisher](https://openlibrary.org/works/OL16027530W/Wishful_drinking?edition=key%3A/books/OL24930605M)
+:books: [The Subtle Art of Not Giving A Fuck, by Mark Manson](https://openlibrary.org/works/OL17590212W/The_Subtle_Art_of_Not_Giving_a_F%2Ack?edition=key%3A/books/OL28230579M)
+:books: [The Princess Diarist, by Carrie Fisher](https://openlibrary.org/works/OL19663327W/The_princess_diarist?edition=key%3A/books/OL26882662M)
 
 :tv: Homestead Rescue, Season 4, Season 5
 :tv: Rico to the Rescue, Season 2
