@@ -9,7 +9,8 @@ layout: page
 # My Media Diary
 
 ## Books
-:books: [Lord of the Flies, by William Golding](https://openlibrary.org/works/OL455327W/Lord_of_Flies?edition=key%3A/books/OL7471722M#overview) Started: 2024-03-05 Finished: _In progress_
+:books: [Conflict is Not Abuse, by Sarah Schulman](https://openlibrary.org/works/OL20037634W/Conflict_is_not_abuse?edition=key%3A/books/OL27217674M) Started: 2024-03-06 Finished: _In progress_
+:books: [Lord of the Flies, by William Golding](https://openlibrary.org/works/OL455327W/Lord_of_Flies?edition=key%3A/books/OL7471722M#overview) Started: 2024-03-05 Finished: 2024-03-06
 :books: [The Subtle Art of Not Giving A Fuck, by Mark Manson](https://openlibrary.org/works/OL17590212W/The_Subtle_Art_of_Not_Giving_a_F%2Ack?edition=key%3A/books/OL28230579M) Started: 2024-03-01 Finished: 2024-03-05
 :books: [The Princess Diarist, by Carrie Fisher](https://openlibrary.org/works/OL19663327W/The_princess_diarist?edition=key%3A/books/OL26882662M) by Carrie Fisher Started: 2024-02-28 Finished: 2024-03-01
 :books: [Wishful Drinking, by Carrie Fisher](https://openlibrary.org/works/OL16027530W/Wishful_drinking?edition=key%3A/books/OL24930605M) Started/Finished: 2024-02-28
