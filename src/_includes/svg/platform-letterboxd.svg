@@ -8,7 +8,7 @@
         <rect id="path-3" x="0" y="0" width="129.847328" height="141.389313"></rect>
     </defs>
     <g id="letterboxd-decal-dots-pos-rgb" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="Circle" fill="#e8e8e8" cx="250" cy="250" r="250"></circle>
+        <circle id="Circle" fill="currentColor" cx="250" cy="250" r="250"></circle>
         <g id="dots-neg" transform="translate(61.000000, 180.000000)">
             <g id="Dots">
                 <ellipse id="Green" fill="#00E054" cx="189" cy="69.9732824" rx="70.0786517" ry="69.9732824"></ellipse>
