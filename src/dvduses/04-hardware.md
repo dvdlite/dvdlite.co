@@ -4,6 +4,8 @@ title: Hardware & Office
 - &#63743; Macbook Pro (M1 Pro, 16GB RAM)
 - &#63743; iPhone 15 Pro Max
 - &#63743; Watch 6
+- &#63743; iPad Air (5th generation)
+- &#63743; Pencil (2nd generation)
 - LG 27" 27UD58 LED (primary display)
 - Samsung BN68 LED TV (dashboard display)
 - Amazon Echo Show 5
