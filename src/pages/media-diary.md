@@ -23,7 +23,7 @@ layout: page
 :tv: Homestead Rescue, Season 5
 
 ## Movies
-[@dvdlite on Letterboxd](https://boxd.it/4grcd)
+[@dvdlite on Letterboxd](https://letterboxd.com/dvdlite/)
 
 :clapper: The Killer, 2023
 :clapper: Retribution, 2023
