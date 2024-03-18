@@ -21,6 +21,7 @@ layout: page
 :fallen_leaf: No longer a focus
 
 #### Media
+:books: [The Creative Act: A Way of Being, by Rick Rubin](https://openlibrary.org/works/OL27955361W/Creative_Act)
 :books: [Conflict is Not Abuse, by Sarah Schulman](https://openlibrary.org/works/OL20037634W/Conflict_is_not_abuse?edition=key%3A/books/OL27217674M)
 :books: [Lord of the Flies, by William Golding](https://openlibrary.org/works/OL455327W/Lord_of_Flies?edition=key%3A/books/OL7471722M#overview)
 :books: [The Subtle Art of Not Giving A Fuck, by Mark Manson](https://openlibrary.org/works/OL17590212W/The_Subtle_Art_of_Not_Giving_a_F%2Ack?edition=key%3A/books/OL28230579M)
