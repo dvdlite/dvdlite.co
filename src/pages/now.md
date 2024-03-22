@@ -8,6 +8,8 @@ layout: page
 ---
 ### Where I'm focusing my energy
 #### March 2024
+:herb: Migrate HomeLab from Proxmox virtualization to xcp-ng
+
 :herb: Re-establish an IndieWeb foothold with a minimum viable blog using 11ty, decide what to pull in from previous public sites
 
 :herb: Use lessons learned from previous PKM iterations to reboot my Obsidian vault
