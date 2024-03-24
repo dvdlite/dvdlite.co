@@ -8,7 +8,7 @@ layout: page
 ---
 ### Where I'm focusing my energy
 #### March 2024
-:herb: Migrate HomeLab from Proxmox virtualization to xcp-ng
+:evergreen_tree: Migrate HomeLab from Proxmox virtualization to xcp-ng
 
 :herb: Re-establish an IndieWeb foothold with a minimum viable blog using 11ty, decide what to pull in from previous public sites
 
@@ -33,5 +33,7 @@ layout: page
 :tv: Rico to the Rescue, Season 2
 :tv: Formula 1: Drive to Survive, Season 6
 
+:clapper: Dream Scenario, 2023
+:clapper: Freelance, 2023
 :clapper: The Killer, 2023
 :clapper: Retribution, 2023
