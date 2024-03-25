@@ -13,12 +13,8 @@ module.exports = {
       url: '/Tags/'
     },
     {
-      text: 'Now',
-      url: '/now/'
-    },
-    {
-      text: 'Uses',
-      url: '/uses/'
+      text: 'Bric-a-brac',
+      url: '/bric-a-brac/'
     },
     {
       text: 'RSS',

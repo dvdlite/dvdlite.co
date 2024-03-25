@@ -6,7 +6,7 @@ seo:
 permalink: /media-diary/index.html
 layout: page
 ---
-# My Media Diary
+# Media Diary
 
 ## Books
 :books: [The Creative Act: A Way of Being, by Rick Rubin](https://openlibrary.org/works/OL27955361W/Creative_Act) Started: 2024-03-14 Finished _In progress_
