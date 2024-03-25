@@ -12,7 +12,7 @@ title: HomeLab
 - **Displays:** Dell E2216H 22" LED display (2)
 - **Compute nodes:**
   - Dell Optiplex 5060 SFF (2) - one running pfSense, the other Proxmox
-  - Dell Optiplex 7060 Micro - worker node, Ubuntu 22.04
-  - Dell Optiplex 5060 Micro (5) - worker nodes, Ubuntu 22.04
+  - Dell Optiplex 7060 Micro - XCP-ng host
+  - Dell Optiplex 5060 Micro (5) - XCP-ng hosts
   - Raspberry Pi 5 8GB (2) - worker nodes, Raspberry Pi OS / Debian Bookworm
 - **Wireless keyboard:** Logitech K400+ keyboard/mouse
