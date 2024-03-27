@@ -20,6 +20,7 @@ layout: page
 :books: [The Spy Coast, by Tess Gerritsen](https://openlibrary.org/works/OL35047541W/The_Spy_Coast?edition=key%3A/books/OL50655856M) Finished: 2024-02-08
 
 ## TV Series
+:tv: Homestead Rescue, Season 8
 :tv: Homestead Rescue, Season 7
 :tv: Homestead Rescue, Season 6
 :tv: Formula 1: Drive to Survive, Season 6
