@@ -11,5 +11,8 @@ layout: page
 * [Uses](/uses/)
 * [Media Diary](/media-diary/)
 
-On the horizon…
+On the horizon...
+* Ideas
+* Anti-library
 * Blogroll
+... and, oh yeah, actual blog content
