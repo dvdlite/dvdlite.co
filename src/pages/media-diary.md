@@ -9,6 +9,7 @@ layout: page
 # Media Diary
 
 ## Books
+:books: Making It So, by Patrick Stewart Started: 2024-03-28 Finished: _In progress_
 :books: [The Gone World, by Tom Sweterlitsch](https://openlibrary.org/works/OL19732028W/The_gone_world) Started: 2024-03-25 Finished: 2024-03-28
 :books: [The Creative Act: A Way of Being, by Rick Rubin](https://openlibrary.org/works/OL27955361W/Creative_Act) Started: 2024-03-14 Finished: 2024-03-25
 :books: [Conflict is Not Abuse, by Sarah Schulman](https://openlibrary.org/works/OL20037634W/Conflict_is_not_abuse?edition=key%3A/books/OL27217674M) Started: 2024-03-06 Finished: 2024-03-13
