@@ -13,6 +13,7 @@ layout: page
 
 On the horizon...
 * Ideas
+* Bookmarks/links
 * Anti-library
 * Blogroll
 
