@@ -6,13 +6,13 @@ title: HomeLab
 - **Cooling:** AC Infinity roof fan kit
 - **UPS:** CyberPower BL1450U 1450VA with AVR
 - **NAS:** Synology 5-bay DiskStation DS1019+ with Seagate Ironwolf NAS HDDs
-- **Network switches:** TP-Link TL-SG108E, Netgear GS308T
-- **Cable management:** 1U Cable Matters rackmount 24-port keystone patch panel, VCE CAT6 keystones
+- **Network switches:** TP-Link TL-SG108E, Netgear GS308T, Mikrotik CRS310-8G+2S+IN (2)
+- **Cable management:** 1U Cable Matters rackmount 24-port keystone patch panel (2), VCE CAT6 keystones
 - **Power distribution:** 1U ADJ PC-100A power strip (2)
 - **Displays:** Dell E2216H 22" LED display (2)
 - **Compute nodes:**
-  - Dell Optiplex 5060 SFF (2) - one running pfSense, the other Proxmox
+  - Dell Optiplex 5060 SFF (2) - one running pfSense, the other Ubuntu 24.04 LTS
   - Dell Optiplex 7060 Micro - XCP-ng host
   - Dell Optiplex 5060 Micro (5) - XCP-ng hosts
-  - Raspberry Pi 5 8GB (2) - worker nodes, Raspberry Pi OS / Debian Bookworm
+  - Raspberry Pi 5 8GB (2) - Raspberry Pi OS / Debian Bookworm
 - **Wireless keyboard:** Logitech K400+ keyboard/mouse

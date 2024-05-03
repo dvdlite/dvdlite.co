@@ -6,7 +6,7 @@ title: Infrastructure / Services
 - **Mail hosting:** Amazon WorkMail, &#63743; iCloud
 - **Spam filtering:** Mailroute
 - **Search engine:** SearXNG (self-hosted)
-- **Multi-WAN:** local ISP, 5G T-Mobile Home Internet
+- **Multi-WAN:** local ISP, 5G T-Mobile Home Internet, Starlink
 - **Mesh wifi:** Eero
 - **Media server:** Plex (self-hosted)
 - **DNS:** Amazon Route 53, Netlify
