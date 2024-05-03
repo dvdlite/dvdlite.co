@@ -37,7 +37,7 @@ April was mostly traveling out of the country for vacation.  Didn't get as much 
 :books: [The Subtle Art of Not Giving A Fuck, by Mark Manson](https://openlibrary.org/works/OL17590212W/The_Subtle_Art_of_Not_Giving_a_F%2Ack?edition=key%3A/books/OL28230579M)
 :books: [The Princess Diarist, by Carrie Fisher](https://openlibrary.org/works/OL19663327W/The_princess_diarist?edition=key%3A/books/OL26882662M)
 
-:tv: Homestead Rescue, Seasons 11
+:tv: Homestead Rescue, Season 11
 :tv: Rico to the Rescue, Season 2
 
 :clapper: Year by the Sea (2016)
