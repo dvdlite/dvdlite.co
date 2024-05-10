@@ -8,7 +8,7 @@
         &copy; {% year %} David Leitko 
         <a href="https://creativecommons.org/licenses/by/4.0/">
           {% include 'svg/ccheart_red.svg' %}
-        </a>
+        </a><br>
 
         {% for item in navigation.bottom %}
           <a
@@ -22,7 +22,7 @@
             >{{ item.text }}</a
           >
         {% endfor %}
-      </nav>
+      </nav><br>
 
       <nav class="site-foot__inner" aria-label="{{ meta.navigation.ariaPlatforms }}">
         <!-- gets the first item from the feed loop set in meta -->
