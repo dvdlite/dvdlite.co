@@ -32,6 +32,7 @@ layout: page
 ## Movies
 [@dvdlite on Letterboxd](https://letterboxd.com/dvdlite/)
 
+:clapper: Six Days Seven Nights (1998)
 :clapper: Year by the Sea (2016)
 :clapper: Road House (2024)
 :clapper: Dream Scenario (2023)
