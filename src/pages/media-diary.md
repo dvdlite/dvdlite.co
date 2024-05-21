@@ -6,8 +6,6 @@ seo:
 permalink: /media-diary/index.html
 layout: page
 ---
-# Media Diary
-
 ## Books - Fiction
 :books: [The Gone World, by Tom Sweterlitsch](https://openlibrary.org/works/OL19732028W/The_gone_world) Started: 2024-03-25 Finished: 2024-03-28
 :books: [Lord of the Flies, by William Golding](https://openlibrary.org/works/OL455327W/Lord_of_Flies?edition=key%3A/books/OL7471722M#overview) Started: 2024-03-05 Finished: 2024-03-06
