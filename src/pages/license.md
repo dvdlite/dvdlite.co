@@ -9,7 +9,7 @@ layout: page
 
 Unless otherwise noted, all software on this site is [free and open-source software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software) licensed under the MIT License.
 
-The remaining (non-software) content on this website, authored or created by David Leitko, is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC-BY 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise indicated.
+The remaining (non-software) content on this website, authored or created by David Leitko, is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise indicated.
 
 > This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. If others modify or adapt the material, they must license the modified material under identical terms.
 
