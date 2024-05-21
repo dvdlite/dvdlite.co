@@ -9,7 +9,15 @@ layout: page
 
 Unless otherwise noted, all software on this site is [free and open-source software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software) licensed under the MIT License.
 
-The remaining (non-software) content on this website, authored by David Leitko, is licensed under a [Creative Commons Attribution 4.0 International license (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) unless otherwise indicated.
+The remaining (non-software) content on this website, authored or created by David Leitko, is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC-BY 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise indicated.
+
+> This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. If others modify or adapt the material, they must license the modified material under identical terms.
+
+Contrary to the [position](https://creativecommons.org/2023/08/18/understanding-cc-licenses-and-generative-ai/) Creative Commons has taken on generative AI, I believe that consumption of an entire website for the purpose of training AI models does not constitute fair use, and I **do not** grant permission for my content to be used in this manner.
+
+If you have any questions or concerns, please contact me using one of the methods in the footer below.
+
+-----
 
 ### MIT License
 
