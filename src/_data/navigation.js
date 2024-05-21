@@ -15,10 +15,6 @@ module.exports = {
     {
       text: 'Commonplace',
       url: '/commonplace/'
-    },
-    {
-      text: 'RSS',
-      url: '/feed.xml'
     }
   ],
   bottom: [
