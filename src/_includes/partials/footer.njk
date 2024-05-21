@@ -1,29 +1,12 @@
 <footer class="site-foot">
   <div class="wrapper">
+
+    <!-- Show socials -->
     <div class="site-foot__inner">
       <nav
         class="site-foot__inner text-step-0"
         aria-label="{{ meta.navigation.ariaBottom }}"
       >
-        &copy; {% year %} David Leitko 
-        <a href="https://creativecommons.org/licenses/by/4.0/">
-          {% include 'svg/ccheart_red.svg' %}
-        </a>
-
-        {% for item in navigation.bottom %}
-          <a
-            href="{{ item.url }}"
-            {{
-              helpers.getLinkActiveState(item.url,
-              page.url)
-              |
-              safe
-            }}
-            >{{ item.text }}</a
-          >
-        {% endfor %}
-      </nav>
-
       <nav class="site-foot__inner" aria-label="{{ meta.navigation.ariaPlatforms }}">
         <!-- gets the first item from the feed loop set in meta -->
         
@@ -45,17 +28,43 @@
           <span class="visually-hidden">{{ meta.blog.feedLinks[0].title }}</span>
           <div aria-hidden="true">{% include 'svg/rss.svg' %}</div>
         </a>
-
+    </div>
+    
+    <!-- Show copyright -->
+        <div class="site-foot__inner">
+      <nav
+        class="site-foot__inner text-step-0"
+        aria-label="{{ meta.navigation.ariaBottom }}"
+      >
+        &copy; {% year %} David Leitko 
+        <a href="https://creativecommons.org/licenses/by/4.0/">
+          {% include 'svg/ccheart_red.svg' %}
+        </a>
+      </nav>
     </div>
 
+    <!-- Show bottom navigation -->
+    <div class="site-foot__inner">
+      <nav
+        class="site-foot__inner text-step-0"
+        aria-label="{{ meta.navigation.ariaBottom }}"
+      >
+        {% for item in navigation.bottom %}
+          <a
+            href="{{ item.url }}"
+            {{
+              helpers.getLinkActiveState(item.url,
+              page.url)
+              |
+              safe
+            }}
+            >{{ item.text }}</a
+          >
+        {% endfor %}
+      </nav>
+    </div>
+    
     <!-- theme switch -->
     {% include 'components/theme-switch.njk' %}
-
-    <!-- <div class="text-center mt-m-l">
-      <a class="creator text-step-min-1" href="{{ meta.creator.website }}"
-        >Made with <span>{% include 'svg/heart.svg' %}</span> by
-        {{ meta.creator.name }}</a
-      >
-    </div> -->
   </div>
 </footer>
