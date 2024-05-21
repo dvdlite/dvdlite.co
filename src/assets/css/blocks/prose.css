@@ -69,6 +69,6 @@
     word-wrap: break-word;
     word-break: break-word;
     /* Adds a hyphen where the word breaks, if supported (No Blink) */
-    hyphens: auto;
+    hyphens: no;
   }
 }
