@@ -32,6 +32,7 @@ layout: page
 ## Movies
 [@dvdlite on Letterboxd](https://letterboxd.com/dvdlite/)
 
+:clapper: Mother of the Bride (2024)
 :clapper: Six Days Seven Nights (1998)
 :clapper: Year by the Sea (2016)
 :clapper: Road House (2024)

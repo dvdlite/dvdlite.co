@@ -6,8 +6,9 @@ seo:
 permalink: /now/index.html
 layout: page
 ---
-### Where I'm focusing my energy
-#### May 2024
+# Where I'm focusing my energy
+
+## May 2024
 
 April was mostly traveling out of the country for vacation.  Didn't get as much reading done as I had hoped, as my kindle library book expired and I was unable to renew it.
 
@@ -21,14 +22,14 @@ April was mostly traveling out of the country for vacation.  Didn't get as much 
 
 :evergreen_tree: Migrate HomeLab from Proxmox virtualization to xcp-ng
 
-#### Key
+## Key
 :seedling: New effort
 :herb: In progress 
 :evergreen_tree: Mature / complete 
 :fallen_leaf: No longer a focus
 :soon: Pushed down the road
 
-#### Media
+## Media
 :books: [Making It So, by Patrick Stewart](https://openlibrary.org/works/OL35720113W/Making_It_So)
 :books: [The Gone World, by Tom Sweterlitsch](https://openlibrary.org/works/OL19732028W/The_gone_world)
 :books: [The Creative Act: A Way of Being, by Rick Rubin](https://openlibrary.org/works/OL27955361W/Creative_Act)
@@ -40,6 +41,7 @@ April was mostly traveling out of the country for vacation.  Didn't get as much 
 :tv: Homestead Rescue, Season 11
 :tv: Rico to the Rescue, Season 2
 
+:clapper: Mother of the Bride (2024)
 :clapper: Six Days Seven Nights (1998)
 :clapper: Year by the Sea (2016)
 :clapper: Road House (2024)
