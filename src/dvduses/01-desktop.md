@@ -1,7 +1,7 @@
 ---
 title: Desktop Apps
 ---
-- **Operating System:** &#63743; MacOS Sonoma 14.4, always the latest developer beta
+- **Operating System:** &#63743; MacOS Sonoma 14.5, always the latest developer beta
 - **Browser:** &#63743; Safari, rarely Google Chrome
 - **Bookmark management:** AnyBox
 - **Mail client:** &#63743; Mail
@@ -37,5 +37,6 @@ title: Desktop Apps
 - **Budgeting:** YNAB, looking to make a change here
 - **Menu bar management:** Dozer
 - **Audio control:** SoundSource
+- **3D Design:** SketchUp Pro
 - **Command line:** &#63743; Terminal
 - **Command line tools:** Homebrew, born and raised on Unix/Linux so gotta fill out the toolbox!

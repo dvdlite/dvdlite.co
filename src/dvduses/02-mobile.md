@@ -1,7 +1,7 @@
 ---
 title: Mobile Apps
 ---
-- **Operating System:** &#63743; iOS 17.4, always the latest developer beta
+- **Operating System:** &#63743; iOS 17.5, iPadOS 17.5, always the latest developer beta
 - **Browser:** &#63743; Safari, rarely Google Chrome
 - **Bookmark management:** AnyBox
 - **Mail client:** &#63743; Mail
@@ -27,7 +27,7 @@ title: Mobile Apps
 - **Ad & tracker blocking:** 1Blocker
 - **Backup client:** &#63743; iCloud Backup
 - **Automation:** &#63743; Shortcuts, Toolbox Pro, Pushcut, Scriptable
-- **Navigation / maps:** &#63743; Maps
+- **Navigation / maps:** &#63743; Maps, Waze
 - **Newsletter & read later:** Omnivore
 - **Git client:** Working Copy 
 - **Package tracking:** Parcel
@@ -41,4 +41,5 @@ title: Mobile Apps
 - **Flight tracking:** Flighty
 - **Calorie tracking:** Lose It!
 - **Zero-trust networking:** Tailscale
+- **3D Design:** SketchUp for iPad
 - **Remote shell:** Prompt
