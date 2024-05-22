@@ -57,8 +57,6 @@ module.exports = {
     ariaTop: 'Main',
     ariaBottom: 'Complementary',
     ariaPlatforms: 'Platforms',
-    // activate alternative mobile menu with drawer
-    drawerNav: false,
     navLabel: 'Menu'
   },
   themeSwitch: {
@@ -85,6 +83,5 @@ module.exports = {
     // this is for the view/edit on github link. The value in the package.json will be pulled in.
     allow: true,
     infoText: 'View this page on GitHub'
-  },
-  easteregg: false
+  }
 };

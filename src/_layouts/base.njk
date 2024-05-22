@@ -37,15 +37,6 @@
 
     <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
 
-    <!-- preloads -->
-    <link
-      rel="preload"
-      href="/assets/fonts/figtree/figtree-variable[wght].woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
-
     <!-- preloads in page data -->
     {%- if preloads -%}
       <!-- prettier-ignore -->
@@ -69,16 +60,6 @@
         type="module"
         src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.4.0/lite-youtube.min.js"
       ></script>
-    {% endif %}
-
-    {% if meta.navigation.drawerNav %}
-      <!-- menu drawer js, if true in meta -->
-      <script src="/assets/scripts/nav-drawer.js?{{ assetHash }}" defer></script>
-    {% endif %}
-
-    {% if meta.easteregg %}
-      <!-- easteregg js, if true in meta -->
-      <script src="/assets/scripts/easteregg.js?{{ assetHash }}" defer></script>
     {% endif %}
 
     <!-- everything else: meta tags, icons, open graph etc.  -->

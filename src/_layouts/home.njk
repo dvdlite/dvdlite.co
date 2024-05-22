@@ -23,12 +23,13 @@ masonry: false
         <p>{{ blog.intro }}</p>
       {% endif %}
 
-      <ul
+<ul class="region" role="list">
+ <!--     <ul
         class="feature | grid region"
         role="list"
         data-rows="masonry"
         data-layout="50-50"
-      >
+      > -->
         <!-- loop posts -->
         {% set itemList = collections.posts %}
         {% for item in itemList.slice(0, 4) %}

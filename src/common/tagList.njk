@@ -9,8 +9,8 @@ eleventyComputed:
   title: '{{ meta.blog.tagSingle }}: {{ tag }}'
 ---
 
-
-<ul class="grid region" role="list" data-rows="masonry" data-layout="50-50">
+<ul class="region" role="list">
+<!--<ul class="grid region" role="list" data-rows="masonry" data-layout="50-50">-->
 	<!-- loop posts -->
 	{% set itemList = collections[tag] | reverse %} {% for item in itemList %}
 	<!-- activate tags -->
