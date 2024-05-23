@@ -3,7 +3,12 @@ package = "netlify-plugin-cache"
   [plugins.inputs]
   paths = [ ".cache" ]
 
-
+[[redirects]]
+  from = "/changelog"
+  to = "https://github.com/dvdlite/dvdlite.co/commits/main/"
+  status = 301
+  force = true
+  
 [[headers]]
     for = "/*"
     [headers.values]
