@@ -120,7 +120,9 @@ module.exports = eleventyConfig => {
   ['src/assets/fonts/', 'src/assets/images/template', 'src/assets/og-images'].forEach(
     path => eleventyConfig.addPassthroughCopy(path)
   );
-  eleventyConfig.addPassthroughCopy("_redirects");
+  eleventyConfig.addPassthroughCopy({
+     'src/_redirects': '/'
+  });
   
   // to root
   eleventyConfig.addPassthroughCopy({
