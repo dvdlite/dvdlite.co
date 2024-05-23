@@ -6,10 +6,8 @@ seo:
 permalink: /shows/index.html
 layout: page
 ---
-:tv: Homestead Rescue, Season 10
-:tv: Homestead Rescue, Season 9
-:tv: Homestead Rescue, Season 8
-:tv: Homestead Rescue, Season 7
-:tv: Homestead Rescue, Season 6
-:tv: Formula 1: Drive to Survive, Season 6
-:tv: Homestead Rescue, Season 5
+Shows I've watched:
+:tv: Homestead Rescue, Seasons 1-11
+:tv: Formula 1: Drive to Survive, Seasons 1-6
+
+Many more to come, of course! These are just what I've watched since I started more careful tracking in 2024.

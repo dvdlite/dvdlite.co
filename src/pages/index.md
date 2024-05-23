@@ -8,6 +8,8 @@ blog:
   // intro: " "
 ---
 
-## Welcome!
+# Welcome to my digital homestead!  
 
-Watch this space...
+Hi, I'm David. I'm a life-long knowledge worker who posts about technology, woodcraft, making things, travel, and whatever else peaks my interest.  Please feel free to take a look around or [subscribe to my RSS feed](https://dvdlite.co/feed.xml).
+
+👋 Thank you for dropping by!

@@ -6,8 +6,9 @@ seo:
 permalink: /movies/index.html
 layout: page
 ---
-[@dvdlite on Letterboxd](https://letterboxd.com/dvdlite/)
+Find me at [@dvdlite on Letterboxd](https://letterboxd.com/dvdlite/)
 
+Movies I've watched:
 :clapper: Mother of the Bride (2024)
 :clapper: Six Days Seven Nights (1998)
 :clapper: Year by the Sea (2016)
@@ -51,3 +52,5 @@ layout: page
 :clapper: The Flagmakers (2022)
 :clapper: Santa Camp (2022)
 :clapper: How to Be Single (2016)
+
+Many more to come, of course! These are just what I've watched since I started more careful tracking in 2023.

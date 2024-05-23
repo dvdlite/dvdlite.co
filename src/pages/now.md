@@ -10,17 +10,17 @@ layout: page
 
 ## May 2024
 
-April was mostly traveling out of the country for vacation.  Didn't get as much reading done as I had hoped, as my kindle library book expired and I was unable to renew it.
+April was mostly traveling out of the country for vacation.  I didn't get as much reading done as I had hoped, as my kindle library book expired and I was unable to renew it or access a physical copy.
 
 :herb: Migrate HomeLab from 1G to 2.5G and 10G networking, clean up rack wiring
 
-:herb: Re-establish an personal web foothold with a minimum viable blog using 11ty, decide what to pull in from previous public sites
+:herb: Re-establish a personal web foothold with a minimum viable blog using 11ty. Decide what to pull in from previous public sites, if anything
 
-:herb: Use lessons learned from previous PKM iterations to reboot my Obsidian vault
+:herb: Use lessons learned from previous PKM iterations to reboot my Obsidian vault (yet again)
 
 :soon: Paint my home office
 
-:evergreen_tree: Migrate HomeLab from Proxmox virtualization to xcp-ng
+:evergreen_tree: Migrate HomeLab nodes from Proxmox virtualization to xcp-ng
 
 ## Key
 :seedling: New effort
