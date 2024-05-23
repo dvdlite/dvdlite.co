@@ -12,7 +12,7 @@ Here are all the requisite [slash pages](https://slashpages.net):
 * [/bookshelf](/bookshelf/) - Books I've read
 * [/movies](/movies/) - Movies I've watched
 * [/shows](/shows/) - Shows I've watched
-* [/changelog](https://github.com/dvdlite/dvdlite.co/commits/main/) - Changes to this website (via github for now)
+* [/changelog](/changelog) - Changes to this website (via github for now)
 
 Coming soon
 * /blogroll - Blogs I find influential
