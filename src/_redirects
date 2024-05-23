@@ -1,5 +1,0 @@
----
-permalink: /_redirects
-eleventyExcludeFromCollections: true
----
-/changelog/  https://github.com/dvdlite/dvdlite.co/commits/main/
