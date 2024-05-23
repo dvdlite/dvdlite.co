@@ -14,7 +14,14 @@ package = "netlify-plugin-cache"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "autoplay=(), camera=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), publickey-credentials-get=()"
 
-
+[[redirects]]
+  from = "/changelog"
+  to = "https://github.com/dvdlite/dvdlite.co/commits/main/"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
+  
 [build]
   command = "npm run build"
   publish = "dist"

@@ -12,7 +12,7 @@ Here are all the requisite [slash pages](https://slashpages.net):
 * [/bookshelf](/bookshelf/) - Books I've read
 * [/movies](/movies/) - Movies I've watched
 * [/shows](/shows/) - Shows I've watched
-* [/changelog](/changelog/) - Changes to this website
+* [/changelog](/changelog) - Changes to this website
 
 Coming soon
 * /blogroll - Blogs I find influential
