@@ -125,10 +125,6 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPassthroughCopy({
     'src/assets/images/favicon/*': '/'
   });
-
-  module.exports = function (eleventyConfig) {
-    eleventyConfig.addPassthroughCopy({ static: "/" });
-  };
   
   // 	--------------------- general config -----------------------
   return {
