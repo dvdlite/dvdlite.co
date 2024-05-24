@@ -12,7 +12,7 @@ Well, rather than dive into a tedious personal history or jump straight into som
 
 {% eleventyImage "./src/assets/images/lamson-goodnow.jpg","Curved sky-bridge at the Lamson and Goodnow mill in Shelburne Falls, Massachusetts, photo taken January 7, 2023, by David Leitko","Curved-sky bridge at the Lamson and Goodnow mill in Shelburne Falls, Massachusetts, photo taken January 7, 2023, by David Leitko" %}
 
-This was my favorite photo I took in 2023.
+This was my favorite photo taken in 2023.
 
 This curved sky-bridge is part of The Mill in Shelburne Falls, Massachusetts.  Originally built by Lamson & Goodnow Cutlery in the mid-19th century, the buildings have been restored and currently house various artists and makers.  Lamson & Goodnow, established in 1837, is the oldest cutlery manufacturer in the United States, and they still have a presence at this site. It's a beautiful location right below the falls and glacial potholes along the Deerfield River.  In fact, then entire complex is 100% hydro-powered.
 
