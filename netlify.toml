@@ -9,6 +9,24 @@ package = "netlify-plugin-cache"
   status = 301
   force = true
 
+[[redirects]]
+  from = "/defaults"
+  to = "/uses/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/colophon"
+  to = "/about/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/slashes"
+  to = "/commonplace/"
+  status = 301
+  force = true
+  
 [[headers]]
     for = "/*"
     [headers.values]

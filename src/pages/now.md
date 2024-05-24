@@ -10,7 +10,9 @@ layout: page
 
 ## May 2024
 
-April was mostly traveling out of the country for vacation.  I didn't get as much reading done as I had hoped, as my kindle library book expired and I was unable to renew it or access a physical copy.
+April was spent mostly traveling out of the country for vacation.  I didn't get as much reading done as I had hoped, as my kindle library book expired and I was unable to renew it or access a physical copy.
+
+:seedling: Rig up a mast for using StarLink in the RV
 
 :herb: Migrate HomeLab from 1G to 2.5G and 10G networking, clean up rack wiring
 

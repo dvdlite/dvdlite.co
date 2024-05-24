@@ -112,6 +112,13 @@ module.exports = eleventyConfig => {
   eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItTaskCheckbox));
   
+  eleventyConfig.addGlobalData('generated', () => {
+    let now = new Date();
+    return new Intl.DateTimeFormat(
+      'en-US', { dateStyle: 'full', timeStyle: 'long' }
+    ).format(now);
+  });
+  
   // Add support for YAML data files with .yaml extension
   eleventyConfig.addDataExtension('yaml', contents => yaml.load(contents));
 

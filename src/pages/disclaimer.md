@@ -6,7 +6,7 @@ seo:
 permalink: /disclaimer/index.html
 layout: page
 ---
-I'm just one person learning in public and trying to share my experiences with like-minded individuals. Content and techniques presented on this website are for educational and informational purposes only.
+I'm just one person trying to share my experiences with like-minded individuals. Content and techniques presented on this website are for educational and informational purposes only.
 
 I consider this site a platform for learning in public. My posts may contain errors, omissions, or be otherwise incomplete. Or they may not work in your environment. My equipment, systems, and configurations may be different from what you have. There are often many ways to solve a challenge, and what I share here are things that have worked for me.
 
