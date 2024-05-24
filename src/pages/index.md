@@ -13,4 +13,4 @@ Hi, I'm David. I'm a life-long knowledge worker and computer geek who posts abou
 
 👋 Thank you for dropping by!
 
-{% eleventyImage "./src/assets/images/welcome.jpg" %}
+{% eleventyImage "./src/assets/images/welcome.jpg","Red fall leaves on a bed of green moss and tree roots, photo by David Leitko" %}

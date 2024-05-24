@@ -4,10 +4,10 @@ permalink: /about/index.html
 description: 'About dvdlite.co'
 layout: page
 ---
-{% eleventyImage "./src/assets/images/waterfall.jpg" %}
+{% eleventyImage "./src/assets/images/waterfall.jpg","Franconia Notch State Park, New Hampshire, photo by David Leitko" %}
 
 # Who is David?
-Hello, my name is David Leitko.  Welcome to my _so-manieth_ iteration of a website, dating back to the mid-1990's.  Hopefully this one will stick as I've tried to remove as much friction from the process as possible.
+Hello, my name is David Leitko (pronounced LĪT-kō).  Welcome to my _so-manieth_ iteration of a website, dating back to the mid-1990's.  Hopefully this one will stick as I've tried to remove as much friction from the process as possible.
 
 I am happily married since 2020, and I have two grown daughters from a previous marriage.  My wife brings three grown children of her own (two daughters and a son), as well.  We welcomed our first grandchild in 2023. I grew up in the Portland, Oregon area throughout my schooling years and many years beyond.  These days I live in the northeastern United States (aka New England), but Oregon will always be "home" to me. We have -- _checks notes_ -- six cats, ranging in age from over 14 years old down to about 4 months.
 
@@ -28,7 +28,7 @@ Technology-wise, my current interests lie in the Apple ecosystem, the Linux ecos
 Sorry for the long-winded introduction.  I hope this gives you a sense of the sorts of topics I will be posting about here.  I certainly won't be posting on a daily basis.  Maybe not even weekly! I hope you'll take a few minutes explore my various [Dispatches](/blog) and my [Commonplace](/commonplace). If you are interested in sticking around, be sure to click [subscribe](/feed.xml), otherwise thank you for your time!
 
 <div style="text-align: center;">
-{% eleventyImage "./src/assets/images/leitkos-est-2020.jpg" %}
+{% eleventyImage "./src/assets/images/leitkos-est-2020.jpg","Plaque reading The Leitkos, est. 2020, photo by David Leitko" %}
 </div>
 
 # Mutual Appreciation Society
