@@ -9,6 +9,7 @@ layout: page
 > Find me at [@dvdlite on Letterboxd](https://letterboxd.com/dvdlite/)
 
 # Movies I've watched:
+:clapper: LaRoy, Texas (2023)
 :clapper: Mother of the Bride (2024)
 :clapper: Six Days Seven Nights (1998)
 :clapper: Year by the Sea (2016)
