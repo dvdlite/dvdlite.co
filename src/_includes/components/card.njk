@@ -17,10 +17,15 @@
           if
           activateTags and item.data.tags.length > 1
         %}
-          {# For cards with multiple tags, show all tags for the card, not just the 2nd one #}
-          {# The first tag (at index 0) is typically "posts", so skip and start at index 1 #}
-          {% for tagButton in range( 1, item.data.tags.length ) %} 
-          <span class="button post-tag"> {{ item.data.tags[ tagButton ] }} </span>
+          {# For cards with multiple tags, show all tags for the card #}
+          {% for tagButton in range( 0, item.data.tags.length ) %} 
+            {# Skip "administrative" tags like 'posts' and 'feature' #}
+            {% if 
+              (item.data.tags[ tagButton ] != "posts") and 
+              (item.data.tags[ tagButton ] != "feature") 
+            %}
+              <span class="button post-tag"> {{ item.data.tags[ tagButton ] }} </span>
+            {% endif %}
           {% endfor %}
         {% endif %}
       </span>
