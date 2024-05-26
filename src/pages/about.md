@@ -41,4 +41,4 @@ Made with a &#63743; MacBook Pro.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7280a787-4bda-4131-9a4d-8528c02d2fdf/deploy-status)](https://app.netlify.com/sites/dvdlite-co/deploys)
 
-###### Site version 2024.0.0 updated {{generated}}
+###### Site version 2024.1.0 updated {{generated}}

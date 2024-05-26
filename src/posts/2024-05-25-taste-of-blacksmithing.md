@@ -12,10 +12,10 @@ We started off at 10am with some history of the shop, blacksmithing equipment, a
 
 {% eleventyImage "./src/assets/images/blacksmith-station.png","My beginner blacksmithing station, photo taken May 25, 2024, by David Leitko" %}
 
-Here was my workstation for the day, with a nice anvil set exactly for my height, and a propane forge more than adequate for today's job.  Some of the students used the larger coal forges, which looked like fun. We were able to experiment with different hammers and tools to find what we were most comfortable using.  We wrapped up at around 3:30pm
+Here was my workstation for the day, with a nice anvil preset exactly for my height, and a propane forge more than adequate for today's job.  Some of the students used the larger coal forges which looked like fun. We were able to experiment with different hammers and tools to find what we were most comfortable using.  We wrapped up at around 3:30pm
 
 {% eleventyImage "./src/assets/images/fireplace-poker.png","My finished fireplace poker, photo taken May 25, 2024, by David Leitko" %}
 
-And here is my finished product!  We will use it on our camping trips, it's a perfect companion to go with our Solo Stove.
+And here is my finished fireplace poker!  We will use it on our camping trips as it's a perfect companion to go with our Solo Stove.
 
 It was a great day, and I look forward to exploring blacksmithing in future classes!  If this is something you've had in the back of your mind to try, I would highly recommend finding a local blacksmith class and going for it!
