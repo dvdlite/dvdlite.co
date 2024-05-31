@@ -11,7 +11,7 @@ title: HomeLab
 - **Power distribution:** 1U ADJ PC-100A power strip (2)
 - **Displays:** Dell E2216H 22" LED display (2)
 - **Compute nodes:**
-  - Dell Optiplex 5060 SFF (2) - one running pfSense, the other Ubuntu 24.04 LTS
+  - Dell Optiplex 5060 SFF (2) - one running OPNsense, the other Ubuntu 24.04 LTS
   - Dell Optiplex 7060 Micro - XCP-ng host
   - Dell Optiplex 5060 Micro (5) - XCP-ng hosts
   - Raspberry Pi 5 8GB (2) - Raspberry Pi OS / Debian Bookworm

@@ -34,6 +34,7 @@ April was spent mostly traveling out of the country for vacation.  I didn't get 
 ## Media
 :books: [Making It So, by Patrick Stewart](https://openlibrary.org/works/OL35720113W/Making_It_So)
 
+:tv: House, M.D., Season 1 (rewatch)
 :tv: Homestead Rescue, Season 11
 :tv: Rico to the Rescue, Season 2
 
