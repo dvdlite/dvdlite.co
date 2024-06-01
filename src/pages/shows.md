@@ -7,6 +7,7 @@ permalink: /shows/index.html
 layout: page
 ---
 # Shows I've watched:
+:tv: House, M.D., Season 1 (rewatch)
 :tv: Homestead Rescue, Seasons 1-11
 :tv: Formula 1: Drive to Survive, Seasons 1-6
 
