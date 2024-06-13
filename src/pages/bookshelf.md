@@ -15,7 +15,7 @@ layout: page
 :books: [The Spy Coast, by Tess Gerritsen](https://openlibrary.org/works/OL35047541W/The_Spy_Coast?edition=key%3A/books/OL50655856M) Finished: 2024-02-08
 
 ## Non-fiction
-:books: [Making It So, by Patrick Stewart](https://openlibrary.org/works/OL35720113W/Making_It_So) Started: 2024-03-28 Finished: _In progress_
+:books: [Making It So, by Patrick Stewart](https://openlibrary.org/works/OL35720113W/Making_It_So) Started: 2024-03-28 Finished: 2024-06-13
 :books: [The Creative Act: A Way of Being, by Rick Rubin](https://openlibrary.org/works/OL27955361W/Creative_Act) Started: 2024-03-14 Finished: 2024-03-25
 :books: [Conflict is Not Abuse, by Sarah Schulman](https://openlibrary.org/works/OL20037634W/Conflict_is_not_abuse?edition=key%3A/books/OL27217674M) Started: 2024-03-06 Finished: 2024-03-13
 :books: [The Subtle Art of Not Giving A Fuck, by Mark Manson](https://openlibrary.org/works/OL17590212W/The_Subtle_Art_of_Not_Giving_a_F%2Ack?edition=key%3A/books/OL28230579M) Started: 2024-03-01 Finished: 2024-03-05
