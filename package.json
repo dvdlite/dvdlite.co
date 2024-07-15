@@ -60,7 +60,7 @@
     "postcss-import-ext-glob": "^2.0.1",
     "postcss-js": "^4.0.0",
     "prettier-plugin-jinja-template": "^1.4.1",
-    "rimraf": "^5.0.8",
+    "rimraf": "^6.0.1",
     "sanitize-html": "^2.12.1",
     "slugify": "^1.6.5"
   }
