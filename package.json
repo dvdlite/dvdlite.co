@@ -39,7 +39,7 @@
     "cssnano": "^7.0.4",
     "dayjs": "^1.11.5",
     "dotenv": "^16.0.3",
-    "esbuild": "^0.22.0",
+    "esbuild": "^0.23.0",
     "html-minifier-terser": "^7.1.0",
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
