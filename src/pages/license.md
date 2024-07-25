@@ -2,7 +2,7 @@
 title: License
 seo:
   title: License
-  description: Unless otherwise noted, all software on this site is free and open-source software (FOSS) licensed under the MIT License. The remaining (non-software) content on this website, authored by David Leitko, is licensed under a Creative Commons Attribution 4.0 International license (CC-BY 4.0) License. 
+  description: Unless otherwise noted, all software on this site is free and open-source software (FOSS) licensed under the MIT License. The remaining (non-software) content on this website, authored by David Leitko, is licensed under a Creative Commons Attribution 4.0 International license (CC-BY-NC-SA 4.0) License. 
 permalink: /license/index.html
 layout: page
 ---
@@ -13,7 +13,9 @@ The remaining (non-software) content on this website, authored or created by Dav
 
 > This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. Noncommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. If others modify or adapt the material, they must license the modified material under identical terms.
 
-Contrary to the [position](https://creativecommons.org/2023/08/18/understanding-cc-licenses-and-generative-ai/) the Creative Commons organization has taken on generative AI, I believe that consumption of entire personal websites for the purpose of training AI models does not constitute fair use, and I **do not** grant permission for my content to be used in this manner.
+Contrary to the [position](https://creativecommons.org/2023/08/18/understanding-cc-licenses-and-generative-ai/) the Creative Commons organization has taken on generative AI, I believe that consumption of entire websites for the purpose of training AI models does not constitute fair use, and I **do not** grant permission for my content to be used in this manner. To be clear: 
+
+**Reproducing, copying, or distributing any content, materials or design elements on this site for the purpose of training a machine learning or AI model is strictly prohibited without the express prior written permission of David Leitko.**
 
 If you have any questions or concerns, please contact me using one of the methods in the footer below. Thanks.
 
