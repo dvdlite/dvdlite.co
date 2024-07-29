@@ -29,7 +29,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "eleventy": "^1.0.7",
     "markdown-it-task-checkbox": "^1.0.6",
-    "tailwindcss": "^3.4.6"
+    "tailwindcss": "^3.4.7"
   },
   "devDependencies": {
     "@csstools/postcss-relative-color-syntax": "^2.0.19",
