@@ -1,0 +1,11 @@
+Sumo Theme
+Creative Commons license
+  License URL: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Font Awesome
+Bookshelf shortcode
+Book reading goals
+Photos page
+  Grid sytle: masonry
+  Include all photos in multi-photo posts, not just first photo.
+  Number of columns for large screens: 4
+  Number of columns for small screens: 2
