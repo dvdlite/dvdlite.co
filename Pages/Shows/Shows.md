@@ -4,20 +4,20 @@
 ## Shows I've watched<br>
 📺 100 Days to Indy (through season 1)<br>
 📺 11.22.63<br>
-📺 90 Day Bares All
-📺 90 Day Diaries (through season 4)
-📺 90 Day Fiancé (through season 9)
-📺 90 Day Fiancé: Before the 90 Days (through season 6)
-📺 90 Day Fiancé: Before the 90 Days Strikes Back
-📺 90 Day Fiancé: Happily Ever After (through season 7)
-📺 90 Day Fiancé: Happily Ever After Strikes Back
-📺 90 Day Fiancé: Just Landed
-📺 90 Day Fiancé: Love Games
-📺 90 Day Fiancé: The Other Way (through season 4)
-📺 90 Day Fiancé: Self-Quarantined
-📺 90 Day Fiancé: What Now?
-📺 90 Day: The Last Resort
-📺 90 Day: The Single Life (through season 3)
+📺 90 Day Bares All<br>
+📺 90 Day Diaries (through season 4)<br>
+📺 90 Day Fiancé (through season 9)<br>
+📺 90 Day Fiancé: Before the 90 Days (through season 6)<br>
+📺 90 Day Fiancé: Before the 90 Days Strikes Back<br>
+📺 90 Day Fiancé: Happily Ever After (through season 7)<br>
+📺 90 Day Fiancé: Happily Ever After Strikes Back<br>
+📺 90 Day Fiancé: Just Landed<br>
+📺 90 Day Fiancé: Love Games<br>
+📺 90 Day Fiancé: The Other Way (through season 4)<br>
+📺 90 Day Fiancé: Self-Quarantined<br>
+📺 90 Day Fiancé: What Now?<br>
+📺 90 Day: The Last Resort<br>
+📺 90 Day: The Single Life (through season 3)<br>
 📺 Arrested Development (various)<br>
 📺 Barry (through season 3)<br>
 📺 Better Call Saul<br>
