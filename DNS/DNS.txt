@@ -1,0 +1,3 @@
+@       IN A        104.200.22.214
+@       IN AAAA     2600:3c00:1::68c8:16d6
+www     IN CNAME    dvdlite.micro.blog
