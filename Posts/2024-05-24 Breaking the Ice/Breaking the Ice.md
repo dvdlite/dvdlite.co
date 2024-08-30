@@ -3,6 +3,7 @@ How do I break the ice with the first post on my new blog?
 Well, rather than dive into a tedious personal history or jump straight into some complicated deep dive into how to migrate from Proxmox to XCP-ng, let me start with this:
 
 <img src="https://dvdlite.micro.blog/uploads/2024/lamson-goodnow.jpg" width="600" height="428" alt="Curved-sky bridge at the Lamson and Goodnow mill in Shelburne Falls, Massachusetts, photo taken January 7, 2023, by David Leitko" title="Curved-sky bridge at the Lamson and Goodnow mill in Shelburne Falls, Massachusetts, photo taken January 7, 2023, by David Leitko">
+<!--more-->
 
 This was the favorite photo I took in 2023.
 

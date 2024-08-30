@@ -1,4 +1,5 @@
 Today, I attended a one-day "Taste of Blacksmithing" class conducted by Morrell Metalsmiths in Colrain, Massachusetts. This was a Christmas gift from my wife that had to be rescheduled several times, and today was finally the day!
+<!--more-->
 
 We started off at 10am with some history of the shop, blacksmithing equipment, and safety.  Then we jumped right into making something.. a fireplace poker.  It was a ton of fun, even if it was hard work.  There were six of us in the class, all complete beginners, and we all came away with very passable tools!
 
