@@ -1,3 +1,4 @@
 blacksmithing
+blog
 maker
 photography

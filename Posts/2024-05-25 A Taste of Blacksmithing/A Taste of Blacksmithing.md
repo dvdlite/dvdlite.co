@@ -11,3 +11,5 @@ Here was my workstation for the day, with a nice anvil preset exactly for my hei
 And here is my finished fireplace poker!  We will use it on our camping trips as it's a perfect companion to go with our Solo Stove.
 
 It was a great day, and I look forward to exploring blacksmithing in future classes!  If this is something you've had in the back of your mind to try, I would highly recommend finding a local blacksmith class and going for it!
+
+🔥🗿

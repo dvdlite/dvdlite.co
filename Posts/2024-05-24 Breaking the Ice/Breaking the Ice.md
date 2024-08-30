@@ -11,3 +11,5 @@ This curved sky-bridge is part of The Mill in Shelburne Falls, Massachusetts.  O
 I love how this structure interconnects two buildings that are not directly next to each other.  In fact, they are at different elevations.  Imagine the storms and winters those old boards and windows have weathered over more than 100 years!  Who has looked out through those windows? What were they doing and thinking? What did they see?
 
 It would be a dream-come-true to have shop space in a place like this with so much history, heritage, and beauty.
+
+🗿

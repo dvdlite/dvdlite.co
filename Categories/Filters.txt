@@ -1,0 +1,5 @@
+Match       Post length     Category            Notes
+            long            blog                Goal is to only show long posts on archive page
+🔥          any             blacksmithing
+🔥          any             maker               For each "maker" subsection
+img src     any             photography         Use "img alt= src=" for things I don't want in the photography category (i.e. screen shots)
