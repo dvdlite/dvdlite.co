@@ -18,7 +18,10 @@
 <h2 id="mutual-appreciation-society"><a class="nounderline" href="#mutual-appreciation-society">Mutual Appreciation Society</a></h2>
 <p>I appreciate you stopping by! If you have particularly enjoyed my site or if something I posted really helps you out or inspires you, please feel free to <a href="https://buymeacoffee.com/dvdlite" rel="noopener">buy me a coffee</a> or perhaps consider making a contribution to one of my favorite causes, <a href="https://www.oceanacresanimalsanctuary.org" rel="noopener">Ocean Acres Animal Sanctuary in Barbados</a>.  Thank you!</p>
 <h1 id="colophon"><a class="nounderline" href="#colophon">Colophon</a></h1>
-<p>This website is artisanally hand-crafted primarily in Massachusetts, USA. <del>using <a href="https://daringfireball.net/projects/markdown/" rel="noopener">markdown</a>, <a href="https://www.vim.org" rel="noopener">vim</a>, <a href="https://code.visualstudio.com" rel="noopener">Visual Studio Code</a>, <a href="https://www.11ty.dev" rel="noopener">11ty</a>, and the <a href="https://github.com/madrilene/eleventy-excellent" rel="noopener">eleventy-excellent v2.0</a> starter. The source code is hosted and publicly viewable on <a href="https://github.com/dvdlite/dvdlite.co" rel="noopener">GitHub</a> and deployed using <a href="https://netlify.com" rel="noopener">Netlify</a>.</del></p>
+<p>This website is artisanally hand-crafted primarily in Massachusetts, USA using <a href="https://daringfireball.net/projects/markdown/" rel="noopener">Markdown</a>, <a href="https://neovim.io" rel="noopener">Neovim</a>, <a href="https://code.visualstudio.com" rel="noopener">Visual Studio Code</a>, and <a href="https://github.com/apps/desktop" rel="noopener">GitHub Desktop</a>. The source code is publicly viewable on <a href="https://github.com/dvdlite/dvdlite.co" rel="noopener">GitHub</a>.</p>
+
 <p>This site is hosted by <a href="https://micro.blog">Micro.blog</a>. I have personalized the <a href="https://sumo.micro.blog">Sumo Theme</a>, which is designed with <span class="red">♥</span> by <a href="https://www.mattlangford.com">Matt Langford</a>.</p>
+
+<p>The home page will show recent posts including ephemeral "micro-blog" entries. By design, the <a href="/archive/">Archive</a> and category pages show only long-form posts.</p>
 
 <p>Made with a  MacBook Pro.</p>
